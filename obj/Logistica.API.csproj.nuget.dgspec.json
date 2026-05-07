@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jean Cuadrado\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj": {}
+    "C:\\Users\\JEAN CUADRADO\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JAIR MENENDEZ\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj": {
+    "C:\\Users\\JEAN CUADRADO\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JAIR MENENDEZ\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj",
+        "projectUniqueName": "C:\\Users\\JEAN CUADRADO\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj",
         "projectName": "Logistica.API",
-        "projectPath": "C:\\Users\\JAIR MENENDEZ\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj",
-        "packagesPath": "C:\\Users\\JAIR MENENDEZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JAIR MENENDEZ\\Documents\\EsanLogistica\\Logistica.API\\obj\\",
+        "projectPath": "C:\\Users\\JEAN CUADRADO\\Documents\\EsanLogistica\\Logistica.API\\Logistica.API.csproj",
+        "packagesPath": "C:\\Users\\JEAN CUADRADO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JEAN CUADRADO\\Documents\\EsanLogistica\\Logistica.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JAIR MENENDEZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\JEAN CUADRADO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
